@@ -1,0 +1,61 @@
+.pasto{
+	width: 720px;
+	height:400px;
+	background-color: green;
+	display: inline-block;
+	padding: 10px;
+	margin: 2px;
+}
+.marco{
+	width: 718px;
+	height: 395px;
+	display: inline-block;
+	position: absolute;
+	border:2px solid white;
+	right: 450px;
+	bottom: 218px;
+}
+.cuadro1{
+	width: 50px;
+	height: 100px;
+	border:2px solid white;
+	display: inline-block;
+	position: absolute;
+	right: 1118px;
+	bottom: 356px;
+}
+.cuadro2{
+	width: 50px;
+	height: 100px;
+	border:2px solid white;
+	display: inline-block;
+	position: absolute;
+	right: 450px;
+	bottom: 356px;
+}
+.circulo{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 2px solid white;
+  position: absolute;
+  right: 750px;
+  bottom: 349px;
+}
+.a{
+	right:790px;
+	bottom: 540px;
+	position: absolute;
+}
+.b{
+	right:1100px;
+	bottom: 440px;
+	position: absolute;
+}
+.c{
+	right:500px;
+	bottom: 340px;
+	position: absolute;
+}
+
+
